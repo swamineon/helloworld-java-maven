@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+  <modelVersion>9.0.0</modelVersion>
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>yoodle</artifactId>
   <packaging>jar</packaging>
@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>sym12</id>
         <name>release softx12</name>
         <url>http://15.206.166.202:8081/repository/all/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
+        <id>sym12</id>
         <name>snapshot softx12</name>
         <url>http://15.206.166.202:8081/repository/all/</url>
     </snapshotRepository>
