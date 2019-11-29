@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>sym</id>
-        <name>release softx</name>
+        <name>release softx12</name>
         <url>http://15.206.166.202:8081/repository/all/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
-        <name>snapshot softx</name>
+        <name>snapshot softx12</name>
         <url>http://15.206.166.202:8081/repository/all/</url>
     </snapshotRepository>
 </distributionManagement>
